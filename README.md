@@ -7,16 +7,28 @@
 - ### 📸 Instagram:  [bkk_penthouse](https://www.instagram.com/bkk_penthouse/)
 - ### 📂 Google Drive:  [BKK Penthouse: Photos](https://drive.google.com/drive/u/0/folders/1wt5pnQ4m0LKfggki_CsH4ask41gAtYsG)
 # Rent
-  
-  *__All bedrooms have:__** ensuite bathroom, balcony access, huge TV, closets.*  
-  
-  *__Rent option:__** leave the guest room open for short-term stays by friends of friends, splitting the revenue.*  
-  
-  | **Room** | **Area (m²)** | **Rent**<br/>*__(all 3 rooms occupied)__* | **Rent**<br/>*__(guest room open)__* | **Amenities** |
-  |---|---|---|---|---|
-  | [Master](https://drive.google.com/drive/folders/1rxNQa4u2Py6CHahz_tIUlDgEO3zm_Bzk) | 49 m² | ฿60k | ฿84k | King-size bed, bath+shower, desk, walk-in closet, storage room, gazebo window room,access to common balcony |
-  | [⁠Medium](https://drive.google.com/drive/folders/1EwA3fcOcDQ37ejP8DjumQxspxK-D1ALY)<br/>*(taken by me)* | 31 m² | ฿47k | ฿66k | King-size bed, shower, desk,access to common balcony |
-  | [⁠Guest](https://drive.google.com/drive/folders/1oVtzsVoTFeF6shWB-mGz7OUzaZCvX3nP) | 23 m² | ฿43k | (leave open) | Queen-size bed, shower,private balcony (in addition to area) |
+
+## Bedrooms
+*All bedrooms have: ensuite bathroom, balcony access, huge TV, closet.*
+
+| **Room** | **Area (m²)** | **Amenities** |
+|---|---|---|
+| [Master](https://drive.google.com/drive/folders/1rxNQa4u2Py6CHahz_tIUlDgEO3zm_Bzk) | 49 m² | King-size bed, bath+shower, desk, walk-in closet, storage room, gazebo window room,access to common balcony |
+| [Medium](https://drive.google.com/drive/folders/1EwA3fcOcDQ37ejP8DjumQxspxK-D1ALY)<br/>*(taken by me)* | 31 m² | King-size bed, shower, desk,access to common balcony |
+| [Guest](https://drive.google.com/drive/folders/1oVtzsVoTFeF6shWB-mGz7OUzaZCvX3nP) | 23 m² | Queen-size bed, shower,private balcony (in addition to area) |
+
+## Rent scenarios
+
+### With all 3 rooms occupied
+- [Master](https://drive.google.com/drive/folders/1rxNQa4u2Py6CHahz_tIUlDgEO3zm_Bzk): ฿60k
+- [Medium](https://drive.google.com/drive/folders/1EwA3fcOcDQ37ejP8DjumQxspxK-D1ALY): ฿47k
+- [Guest](https://drive.google.com/drive/folders/1oVtzsVoTFeF6shWB-mGz7OUzaZCvX3nP): ฿43k
+
+### With Guest room open
+- [Master](https://drive.google.com/drive/folders/1rxNQa4u2Py6CHahz_tIUlDgEO3zm_Bzk): ฿84k
+- [Medium](https://drive.google.com/drive/folders/1EwA3fcOcDQ37ejP8DjumQxspxK-D1ALY): ฿66k
+- [Guest](https://drive.google.com/drive/folders/1oVtzsVoTFeF6shWB-mGz7OUzaZCvX3nP): (leave open for short-term stays by friends of friends, splitting the revenue.)
+
 # Features
 ## Furniture + spaces
 - Large corner sofas in both [Living room](https://drive.google.com/drive/folders/1E0gtDM__5ys3kjGnJAcYmvLkU4rtjdmV) and [Loft space](https://drive.google.com/drive/folders/1j21T8CZ4uWyEcpMpzm2W-ZyJXujutgVh)
