@@ -1,5 +1,5 @@
 # BKK Penthouse: Room for Rent
-![](https://lh7-us.googleusercontent.com/X-8iucYGzk6qdpwcACR-Irsj4WuxdTqx2ythVSbWmSIz6LWmBN3kSxdTU0PeD0Veoh_gMLnN5ppYPLFjvVbIVM_FuwhHBp76Fjls0etsxVk76suJhRWpsc2yytAuTKboOhDizd-V4e3wI-tGdrHx0Z4)
+![Living room overview](https://lh3.googleusercontent.com/pw/AP1GczO6N9n8C3DYSZygTxSav6haghn1SQPnC7P5rL4_9EGNhG6AaIwYzyvwR7lC5yKeDmke977WW1VD-4YnV-36hqvCjDUZ6EM865Xo4bqe8cLVCG-I9KJlgrlL2eP1fo2ms5rchDbUZyhR4npYgSzl5zZ6=w1477-h1108-s-no-gm?authuser=0)
 
 # Location + apartment details
 - Located in Phrom Phong, on Sukhumvit Soi 39, 5 min motorbike north of Emquartier mall
@@ -7,6 +7,7 @@
 
 # Photos + Video
 - 📸 Instagram:  [bkk_penthouse](https://www.instagram.com/bkk_penthouse/)
+- 📸 Google Photos: [BKK Penthouse: (All photos)](https://photos.app.goo.gl/C82n7UjuN9sxvQyZA)
 - 📂 Google Drive:  [BKK Penthouse: Photos](https://drive.google.com/drive/u/0/folders/1wt5pnQ4m0LKfggki_CsH4ask41gAtYsG)
 
 # Rent
@@ -16,34 +17,34 @@
 
 | **Room** | **Area (m²)** | **Amenities** |
 |---|---|---|
-| [Master](https://drive.google.com/drive/folders/1rxNQa4u2Py6CHahz_tIUlDgEO3zm_Bzk) | 49 m² | King-size bed, bath+shower, desk, walk-in closet, storage room, gazebo window room,access to common balcony |
-| [Medium](https://drive.google.com/drive/folders/1EwA3fcOcDQ37ejP8DjumQxspxK-D1ALY)<br/>*(taken by me)* | 31 m² | King-size bed, shower, desk,access to common balcony |
-| [Guest](https://drive.google.com/drive/folders/1oVtzsVoTFeF6shWB-mGz7OUzaZCvX3nP) | 23 m² | Queen-size bed, shower,private balcony (in addition to area) |
+| [Master](https://photos.app.goo.gl/pNwcUU9oLRV31wG8A) | 49 m² | King-size bed, bath+shower, desk, walk-in closet, storage room, gazebo window room,access to common balcony |
+| [Medium](https://photos.app.goo.gl/8rR9gTH9ZQxiXvDq6)<br/>*(taken by me)* | 31 m² | King-size bed, shower, desk,access to common balcony |
+| [Guest](https://photos.app.goo.gl/VbMA9xzdvzuoxNn26) | 23 m² | Queen-size bed, shower,private balcony (in addition to area) |
 
 ## Rent scenarios
 
 ### With all 3 rooms occupied
-- [Master](https://drive.google.com/drive/folders/1rxNQa4u2Py6CHahz_tIUlDgEO3zm_Bzk): ฿60k
-- [Medium](https://drive.google.com/drive/folders/1EwA3fcOcDQ37ejP8DjumQxspxK-D1ALY): ฿47k
-- [Guest](https://drive.google.com/drive/folders/1oVtzsVoTFeF6shWB-mGz7OUzaZCvX3nP): ฿43k
+- [Master](https://photos.app.goo.gl/pNwcUU9oLRV31wG8A): ฿60k
+- [Medium](https://photos.app.goo.gl/8rR9gTH9ZQxiXvDq6): ฿47k
+- [Guest](https://photos.app.goo.gl/VbMA9xzdvzuoxNn26): ฿43k
 
 ### With Guest room open
-- [Master](https://drive.google.com/drive/folders/1rxNQa4u2Py6CHahz_tIUlDgEO3zm_Bzk): ฿84k
-- [Medium](https://drive.google.com/drive/folders/1EwA3fcOcDQ37ejP8DjumQxspxK-D1ALY): ฿66k
-- [Guest](https://drive.google.com/drive/folders/1oVtzsVoTFeF6shWB-mGz7OUzaZCvX3nP): (leave open for short-term stays by friends of friends, splitting the revenue.)
+- [Master](https://photos.app.goo.gl/pNwcUU9oLRV31wG8A): ฿84k
+- [Medium](https://photos.app.goo.gl/8rR9gTH9ZQxiXvDq6): ฿66k
+- [Guest](https://photos.app.goo.gl/VbMA9xzdvzuoxNn26): (leave open for short-term stays by friends of friends, splitting the revenue.)
 
 # Features
 
 ## Furniture + spaces
-- Large corner sofas in both [Living room](https://drive.google.com/drive/folders/1E0gtDM__5ys3kjGnJAcYmvLkU4rtjdmV) and [Loft space](https://drive.google.com/drive/folders/1j21T8CZ4uWyEcpMpzm2W-ZyJXujutgVh)
+- Large corner sofas in both [Living room](https://photos.app.goo.gl/zgVKmMim5NV5Y2Vw6) and [Loft space](https://photos.app.goo.gl/QgdVP4injrn96ccY6)
 - Large hardwood dining room table with 8 chairs
-- Large [Kitchen](https://drive.google.com/drive/folders/1ZxHoB8suhfK6NCBEdSYXgabeMVKIeoB7) with wood countertop an huge wood kitchen island
-- Large common balcony accessible from [Living room](https://drive.google.com/drive/folders/1E0gtDM__5ys3kjGnJAcYmvLkU4rtjdmV), [Master bedroom](https://drive.google.com/drive/folders/1rxNQa4u2Py6CHahz_tIUlDgEO3zm_Bzk), [Medium bedroom](https://drive.google.com/drive/folders/1EwA3fcOcDQ37ejP8DjumQxspxK-D1ALY) with 2x outdoor sofa chairs
-- Private balcony accessible from [Guest bedroom](https://drive.google.com/drive/folders/1oVtzsVoTFeF6shWB-mGz7OUzaZCvX3nP)
+- Large [Kitchen](https://photos.app.goo.gl/Ke7M8NpdvKt5cEPq8) with wood countertop an huge wood kitchen island
+- Large common balcony accessible from [Living room](https://photos.app.goo.gl/zgVKmMim5NV5Y2Vw6), [Master bedroom](https://photos.app.goo.gl/pNwcUU9oLRV31wG8A), [Medium bedroom](https://photos.app.goo.gl/8rR9gTH9ZQxiXvDq6) with 2x outdoor sofa chairs
+- Private balcony accessible from [Guest bedroom](https://photos.app.goo.gl/VbMA9xzdvzuoxNn26)
 
 ## Appliances and electronics
 - Smart light system throughout all common areas (Philips Hue)
-- Huge TVs in [Loft space](https://drive.google.com/drive/folders/1j21T8CZ4uWyEcpMpzm2W-ZyJXujutgVh) (with surround sound), and also in every bedroom
+- Huge TVs in [Loft space](https://photos.app.goo.gl/QgdVP4injrn96ccY6) (with surround sound), and also in every bedroom
 - Large fridge (Technics), drink fridge, bottom-fed water dispenser
 - Microwave, 2x ovens, hood fan (Siemens)
 - Washer + dryer: quality side-loading separate units (Electrolux)
