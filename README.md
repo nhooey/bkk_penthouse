@@ -4,8 +4,8 @@
 - Located in Phrom Phong, on Sukhumvit Soi 39, 5 min motorbike north of Emquartier mall
 - Entire space is 350 m², on the top (7th) floor of the building, at the end of the hall in its own corner (quite private)
 # Photos + Video
-### 📸 Instagram:  [bkk_penthouse](https://www.instagram.com/bkk_penthouse/)
-### 📂 Google Drive:  [BKK Penthouse: Photos](https://drive.google.com/drive/u/0/folders/1wt5pnQ4m0LKfggki_CsH4ask41gAtYsG)
+- ### 📸 Instagram:  [bkk_penthouse](https://www.instagram.com/bkk_penthouse/)
+- ### 📂 Google Drive:  [BKK Penthouse: Photos](https://drive.google.com/drive/u/0/folders/1wt5pnQ4m0LKfggki_CsH4ask41gAtYsG)
 # Rent
   
   *__All bedrooms have:__** ensuite bathroom, balcony access, huge TV, closets.*  
