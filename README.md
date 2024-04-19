@@ -1,4 +1,4 @@
-# BKK Penthouse: Room for Rent
+# BKK Penthouse: Rooms for Rent
 ![Living room overview](https://lh3.googleusercontent.com/pw/AP1GczO6N9n8C3DYSZygTxSav6haghn1SQPnC7P5rL4_9EGNhG6AaIwYzyvwR7lC5yKeDmke977WW1VD-4YnV-36hqvCjDUZ6EM865Xo4bqe8cLVCG-I9KJlgrlL2eP1fo2ms5rchDbUZyhR4npYgSzl5zZ6=w1477-h1108-s-no-gm?authuser=0)
 
 # Location + apartment details
