@@ -18,19 +18,19 @@
 | **Room** | **Area (m²)** | **Amenities** |
 |---|---|---|
 | [Master](https://photos.app.goo.gl/pNwcUU9oLRV31wG8A) | 49 m² | King-size bed, bath+shower, desk, walk-in closet, storage room, gazebo window room,access to common balcony |
-| [Medium](https://photos.app.goo.gl/8rR9gTH9ZQxiXvDq6)<br/>*(taken by me)* | 31 m² | King-size bed, shower, desk,access to common balcony |
+| [Medium](https://photos.app.goo.gl/XaZJognmgJsT129g6)<br/>*(taken by me)* | 31 m² | King-size bed, shower, desk,access to common balcony |
 | [Guest](https://photos.app.goo.gl/VbMA9xzdvzuoxNn26) | 23 m² | Queen-size bed, shower,private balcony (in addition to area) |
 
 ## Rent scenarios
 
 ### With all 3 rooms occupied
 - [Master](https://photos.app.goo.gl/pNwcUU9oLRV31wG8A): ฿60k
-- [Medium](https://photos.app.goo.gl/8rR9gTH9ZQxiXvDq6): ฿47k
+- [Medium](https://photos.app.goo.gl/XaZJognmgJsT129g6): ฿47k
 - [Guest](https://photos.app.goo.gl/VbMA9xzdvzuoxNn26): ฿43k
 
 ### With Guest room open
 - [Master](https://photos.app.goo.gl/pNwcUU9oLRV31wG8A): ฿84k
-- [Medium](https://photos.app.goo.gl/8rR9gTH9ZQxiXvDq6): ฿66k
+- [Medium](https://photos.app.goo.gl/XaZJognmgJsT129g6): ฿66k
 - [Guest](https://photos.app.goo.gl/VbMA9xzdvzuoxNn26): (leave open for short-term stays by friends of friends, splitting the revenue.)
 
 # Features
@@ -48,7 +48,7 @@
 
 [![Kitchen: countertop and island](https://lh3.googleusercontent.com/pw/AP1GczNt4WZo62JUl-Q_p3OL097IRP7HIVqibvsmg_UaEHedb11V_ELn9VWHH4ngJoe7Eqwe6IDFS7zgPs8JZ7clUq1d2UMJygjf6cg8xJUR1PyblifwiZyUr3qLPgOsdvssa4f0cm7EXCByb-3DbBa9sQjw=w1477-h1108-s-no-gm?authuser=0){: width="600"}](https://photos.app.goo.gl/UKBPZp39V787eaM96)
 
-- Large common balcony accessible from [Living room](https://photos.app.goo.gl/zgVKmMim5NV5Y2Vw6), [Master bedroom](https://photos.app.goo.gl/pNwcUU9oLRV31wG8A), [Medium bedroom](https://photos.app.goo.gl/8rR9gTH9ZQxiXvDq6) with 2x outdoor sofa chairs
+- Large common balcony accessible from [Living room](https://photos.app.goo.gl/zgVKmMim5NV5Y2Vw6), [Master bedroom](https://photos.app.goo.gl/pNwcUU9oLRV31wG8A), [Medium bedroom](https://photos.app.goo.gl/XaZJognmgJsT129g6) with 2x outdoor sofa chairs
 - Private balcony accessible from [Guest bedroom](https://photos.app.goo.gl/VbMA9xzdvzuoxNn26)
 
 [![Bedroom #2: Guest: balcony](https://lh3.googleusercontent.com/pw/AP1GczMK_nDVUUpac3y4a8FxgCzoeuEhIjKBbP9GkEuDJbWWmG-5DrwpOXbloT_dAk77aLQtLNKJt61VxOIP5-bhjeidhOSSUX23BKYReT_aEnNCuLRVCmjASFThYPh28jpo4QE-eLQunQsnVf7R8nYQezdt=w1477-h1108-s-no-gm?authuser=0){: width="600"}](https://photos.app.goo.gl/82qygAowrM3ys1fW6)
