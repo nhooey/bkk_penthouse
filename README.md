@@ -93,5 +93,5 @@
 ## Contact
 - Neil Hooey:
   - WhatsApp: [+1 347-770-6345](https://wa.me/+13477706345)
-  - Instagram: [bkk_penthouse](https://www.instagram.com/bkk_penthouse/)
+  - Instagram: [nhooey](https://www.instagram.com/nhooey/)
   - Email: [nhooey@gmail.com](mailto:nhooey@gmail.com)
