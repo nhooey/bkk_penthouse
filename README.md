@@ -84,7 +84,7 @@
 - Working from home, and spending most of my time in Bangkok
 
 ## Vibe
-- Gotta keep it classy and neat in the space, but I'm substance-friendly
+- Gotta keep it classy and neat in the space
 - Can and will host occasional parties with 30 people max (building rule)
 - Have to avoid disturbing the neighbours:
   - Make sure guests know to be quiet in the hallways
