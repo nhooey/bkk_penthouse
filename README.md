@@ -3,7 +3,7 @@
 
 # Location + apartment details
 - Located in Phrom Phong, on Sukhumvit Soi 39, 5 min motorbike north of Emquartier mall
-- Entire space is 350 m², on the top (7th) floor of the building, at the end of the hall in its own corner (quite private)
+- Entire space is 420 m², on the top (7th) floor of the building, at the end of the hall in its own corner (quite private)
 
 # Photos + Video
 - 📸 Instagram: [bkk_penthouse](https://www.instagram.com/bkk_penthouse/)
